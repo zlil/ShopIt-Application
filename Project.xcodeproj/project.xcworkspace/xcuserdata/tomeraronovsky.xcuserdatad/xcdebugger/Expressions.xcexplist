@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController fromNewsFeedToProfile:]:NewsFeedTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__39-[PostScreenViewController viewDidLoad]_block_invoke:PostScreenViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PostUploadViewController viewDidLoad]:PostUploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController likeOrUnlikeClick:]:NewsFeedTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NotificationViewController viewDidLoad]:NotificationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+            <PersistentString
+               value = "[PFUser currentUser].username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChildMyProfileViewController viewDidLoad]:ChildMyProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Model instance].current_username">
+            </PersistentString>
+            <PersistentString
+               value = "self.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController tableView:cellForRowAtIndexPath:]:ProfileViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__30-[Model getPostsToshowAsynch:]_block_invoke:Model.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse UserLikePostOrNot:]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "relevantPost[@&quot;count&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController viewDidLoad]:NewsFeedTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "postsToShow.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse saveUserSettings:email:]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PostScreenViewController viewDidLoad]:PostScreenViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UserSettingsViewController viewDidLoad]:UserSettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController tableView:numberOfRowsInSection:]:NewsFeedTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "postsToShow.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse getPostsToshow]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gg.objectId">
+            </PersistentString>
+            <PersistentString
+               value = "query whereKey:@&quot;objectId&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedViewCell buyThisItem:]:NewsFeedViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse saveNewPost:image:]:ModelParse.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController viewDidLoad]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse loginUser:password:]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pfuser.objectId">
+            </PersistentString>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyProfileTableViewController prepareForSegue:sender:]:MyProfileTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "postDestenation.starRank">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedViewController viewDidLoad]:NewsFeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[PFUser currentUser]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController searchBar:textDidChange:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[totalUsers count];">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController prepareForSegue:sender:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ip.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyProfileTableViewController tableView:numberOfRowsInSection:]:MyProfileTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.posts.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController addFriend:]:NewsFeedTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse getAllPostsForUserProfile:]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.objectId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController collectionView:cellForItemAtIndexPath:]:ProfileViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController prepareForSegue:sender:]:NewsFeedTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "profileVC.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Model resetNotify:]:Model.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "query">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelParse getPostFromDate:]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController usernameButton:]:NewsFeedTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyProfileTableViewController viewDidLoad]:MyProfileTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PostUploadViewController shareButton:]:PostUploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__43-[ChildMyProfileViewController viewDidLoad]_block_invoke:ChildMyProfileViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelSQL resetNotify:]:ModelSQL.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PostUploadViewController faceBookButton:]:PostUploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "facebookFlag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchViewController tableView:cellForRowAtIndexPath:]:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "(NSString*)user.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyProfileTableViewController tableView:cellForRowAtIndexPath:]:MyProfileTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewsFeedTableViewController tableView:cellForRowAtIndexPath:]:NewsFeedTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSNumber numberWithInteger:5]">
+            </PersistentString>
+            <PersistentString
+               value = "post.starRank">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

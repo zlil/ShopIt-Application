@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ModelParse getPostsToshow]:ModelParse.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "post.postID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PostUploadViewController shareButton:]:PostUploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "post.username">
+            </PersistentString>
+            <PersistentString
+               value = "post.postID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[PostSql getPostsToshow:user:]:PostSql.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "post.postID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Model getNotificationArray:]:Model.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastUpdate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[PostSql saveNewPost:db:]:PostSql.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
